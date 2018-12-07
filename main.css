@@ -1,0 +1,77 @@
+body
+   {
+  background: white;  
+   }
+#full_body
+   {
+  margin-top: 50px;
+    float: left;
+    padding: 0% 3%;
+    width: 99%;
+    background: white;
+   }
+div#sales_table_filter {
+    float: right;
+    width: 45%;
+}
+
+div#sales_table_filter label {
+}
+
+.dataTables_length {
+    float: left !important;
+    width: 45%;
+    margin-top: 16px;
+}
+li#filter_ {
+    width: 75%;
+    margin: 17px 5px 10px 10px;
+}
+#date_filt
+  {
+  display: none;
+  }
+.reports
+   {
+   margin-top: 10px;
+    padding: 0px 10px;
+    border-top: 2px solid grey;
+    background: #EFEFEF;
+   }
+.perc
+   {
+   float: right;
+    font-size: 68%;
+    width: 24px;
+    padding: 2px;
+    background: transparent;
+    color: royalblue;
+   }
+span#cat {
+    color: lightblue;
+  
+    float: left;
+   
+}
+#full_body ul li {
+    margin-left: 3px;
+}
+#show_
+  {
+  font-size: 80%;
+    float: right;
+    color: lightblue;
+  }
+div#processing {
+    position: absolute;
+    text-align: center;
+    right: 0;
+    left: 0;
+    padding-top: 130px;
+    display: none;
+    top: 6px;
+    bottom: 0px;
+    background: rgba(249, 249, 249, 0.55);
+    z-index: 1000;
+    font-weight: bold;
+}
